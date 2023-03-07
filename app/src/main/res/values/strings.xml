@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E Chats</string>
+    <string name="archive">ARCHIVE</string>
+    <string name="reply">REPLAY</string>
+</resources>
